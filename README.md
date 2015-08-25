@@ -18,7 +18,7 @@ Do the following:
 4. Complete the three coding challenges
 5. Submit them following the steps below
 
-## Submitting the Code Challenge
+## Submitting the Challenge
 
 We use git and Github for all of our code distribution and collaboration during class. However, we do not expect our applicants to know about forks, cloning, or pull requests before starting the precourse work. Consequently, you will submit your application at our [Dropbox File Request](https://www.dropbox.com/request/WOiteuvkN39GHx2MDe4A). We will be notified when you submit your challenge.
 
