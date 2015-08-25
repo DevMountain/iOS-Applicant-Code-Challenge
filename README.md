@@ -8,6 +8,16 @@ Complete the coding challenge the best you can within one week. This will give u
 
 There are three challenges. All code should be written in Swift and the solution should compile in Playgrounds without any warnings or errors. We are not strictly concerned with seeing a specific 'correct' answer. There are many ways to do all three challenges. Find one that works for you.
 
+## Completing the Challenge
+
+Do the following:
+
+1. Download an [archive of this repository](https://github.com/DevMountain/iOS-Applicant-Code-Challenge/archive/master.zip)
+2. If you don't have Xcode, [download it from the Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) or from [Apple's Developer Resources](https://developer.apple.com/xcode/downloads/)
+3. Open the Playground in the archive
+4. Complete the three coding challenges
+5. Submit them following the steps below
+
 ## Submitting the Code Challenge
 
 We use git and Github for all of our code distribution and collaboration during class. However, we do not expect our applicants to know about forks, cloning, or pull requests before starting the precourse work. Consequently, you will submit your application at our [Dropbox File Request](https://www.dropbox.com/request/WOiteuvkN39GHx2MDe4A). We will be notified when you submit your challenge.
