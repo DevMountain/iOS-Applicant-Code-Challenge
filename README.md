@@ -6,7 +6,15 @@ The problems range from pretty easy to fairly difficult, and we don't necessaril
 
 Complete the coding challenge the best you can within one week. This will give us enough time to review your challenges and get a spot for you in the class.
 
-There are three challenges. All code should be written in Swift and the solution should compile in Playgrounds without any warnings or errors. We are not strictly concerned with seeing a specific 'correct' answer. There are many ways to do all three challenges. Find one that works for you.  If you have any questions, e-mail interviews@devmountain.com.
+There are three challenges. All code should be written in Swift and the solution should compile in Playgrounds without any warnings or errors. We are not strictly concerned with seeing a specific 'correct' answer. There are many ways to do all three challenges. Find one that works for you.
+
+## Submitting the Code Challenge
+
+We use git and Github for all of our code distribution and collaboration during class. However, we do not expect our applicants to know about forks, cloning, or pull requests before starting the precourse work. Consequently, you will submit your application at our [Dropbox File Request](https://www.dropbox.com/request/WOiteuvkN39GHx2MDe4A). We will be notified when you submit your challenge.
+
+Mentors review submissions twice each week. If you have any questions about your application before you hear back, please contact interviews@devmountain.com.
+
+## Available Resources
 
 Feel free to use the Swift Documentation, Google, or Stack Overflow as you complete your code challenge. Here are a few specific links that may be helpful:
 
