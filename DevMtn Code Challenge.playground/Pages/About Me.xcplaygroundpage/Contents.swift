@@ -14,4 +14,5 @@ Tell us a little bit about yourself using Swift variables. Start with your first
 //: Using the variables you have created, write a programmatically generated sentence to introduce yourself. Use only one print() statement.
 
 
+//: [Previous](@previous)
 //: [Next](@next)

@@ -7,3 +7,4 @@ Thank you for submitting your application and completing your DevMountain iOS Co
 Mentors review submissions twice each week. If you have any questions about your application before you hear back, please contact interviews@devmountain.com.
 
 */
+//: [Previous](@previous)
