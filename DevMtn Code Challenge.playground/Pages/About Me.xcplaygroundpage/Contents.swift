@@ -8,7 +8,10 @@ Tell us a little bit about yourself using Swift variables. Start with your first
 //: Create an array of Strings that holds a few of your hobbies.
 
 
-//: Programmatically combine the individual strings from your hobbies array into a single string with commas
+/*: Programmatically combine the individual strings from your hobbies array into a single string with the hobbies separated by commas.
+
+    For example: "Programming, Teaching, Golf, and Basketball."
+*/
 
 
 //: Using the variables you have created, write a programmatically generated sentence to introduce yourself. Use only one print() statement.
