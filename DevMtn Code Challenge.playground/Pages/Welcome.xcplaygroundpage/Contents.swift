@@ -2,6 +2,8 @@
 
 ## DevMountain iOS Code Challenge
 
+NOTE: If this line is green and you are missing navigation buttons below, please click Editor -> Show Rendered Markup.
+
 The code challenge is an important part of your interview process. Since there is a high demand for our class, it's one of the best tools we have in determining who has the ability to learn quickly, work hard, and master concepts in a short amount of time and who does not.
 
 The problems range from pretty easy to fairly difficult, and we don't necessarily expect you to get them all exactly correct. This is meant for us to gauge where you are at and your ability to tackle new projects, difficult tasks, and somewhat vague problems. It is very important that you attempt and try to complete all of the problems. The more you complete, even if they're not perfect, the more we'll know about you and your ability to learn in an intense environment.
