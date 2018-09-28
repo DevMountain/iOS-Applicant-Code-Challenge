@@ -26,7 +26,7 @@ Mentors review submissions twice each week. If you have any questions about your
 
 ## Available Resources
 
-Feel free to use the Swift Documentation, Google, or Stack Overflow as you complete your code challenge. Here are a few specific links that may be helpful:
+Feel free to use the Swift Documentation, Google, or Stack Overflow as you complete your code challenge. Here are a few specific links that are helpful: Highly reccommend going through these links. 
 
 * [The Swift Programming Language: About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
 * [The Swift Programming Language: The Basics](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
